@@ -11,7 +11,7 @@ Determine the winner of the  election based on popular vote
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.6.1, Visuak Studio Code, 1.38.1
+- Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
 the analyst of the election show that:
@@ -20,8 +20,8 @@ the analyst of the election show that:
   - Canidate 1
   - Canidate 2
   - Canidate 3
- -The canidate results were:
-  Canidate 1,2,3 receieved "x%" of the vote and "y" number of votes.
+ - The canidate results were:
+    Canidate 1,2,3 receieved "x%" of the vote and "y" number of votes.
   
   
  -The winner of the election was
