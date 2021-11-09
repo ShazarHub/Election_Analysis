@@ -15,11 +15,11 @@ Determine the winner of the  election based on popular vote
 
 ## Summary
 the analyst of the election show that:
--There were "x" votes cast in the election
--The canidates were:
-    - Canidate 1
-    - Canidate 2
-    - Canidate 3
+- There were "x" votes cast in the election
+- The canidates were:
+  - Canidate 1
+  - Canidate 2
+  - Canidate 3
  -The canidate results were:
   Canidate 1,2,3 receieved "x%" of the vote and "y" number of votes.
   
