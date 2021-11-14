@@ -47,7 +47,4 @@ the analyst of the election show that:
    - Diana DeGette won the election, with a total votes of 272,892
    - Diana DeGette has the total percentage votes of 73.8%
    - Diana DeGette is the Winner!
-   
   
-  
-  ## Challenge Summary
