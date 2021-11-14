@@ -31,20 +31,20 @@ the analyst of the election show that:
   A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
   ## Election-Audit Results:
   Total Vote Cast in the congressional election : 369,711
-   #County Votes
+   #County Votes :
    - Jefferson county has 10.5% total percentage with a total votes of 38,855
    - Denver county has the 82.8% total percentage with a total votes of 306,055
    - Arapahoe county has 6.7% total percentage with a total votes of 24,801
    
    Denver county has the largest number total of 306,055
    
-   # Candidate Percentage of Votes:
+   # Candidate Percentage of Votes :
 
     - Charles Casper Stockham candidate has 23.0% total percentage with a total votes of 85,213
     - Diana DeGette candidate has the 73.8 total percentage with a total votes of 272,892
     - Raymon Anthony Doane candidate has 3.1% total percentage with a total votes of 11,606
     
-   # Election Results:
+   # Election Results :
 
     - Diana DeGette won the election, with a total votes of 272,892
     - Diana DeGette has the total percentage votes of 73.8%
